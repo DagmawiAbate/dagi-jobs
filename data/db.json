@@ -1,0 +1,7 @@
+{
+  "jobs": [
+    { "title": "Dagi UX Designer", "id": 1, "details": "lorem" },
+    { "title": "Dagi Web Developer", "id": 2, "details": "lorem" },
+    { "title": "Dagi Vue Developer", "id": 3, "details": "lorem" }
+  ]
+}
